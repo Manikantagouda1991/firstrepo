@@ -1,0 +1,7 @@
+C:\Users\Hanumesh\Desktop\manikantagoudamain1991\webapp2000\webapp2000\obj\Release\net6.0\PubTmp\Out\webapp2000.exe
+C:\Users\Hanumesh\Desktop\manikantagoudamain1991\webapp2000\webapp2000\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Hanumesh\Desktop\manikantagoudamain1991\webapp2000\webapp2000\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Hanumesh\Desktop\manikantagoudamain1991\webapp2000\webapp2000\obj\Release\net6.0\PubTmp\Out\webapp2000.dll
+C:\Users\Hanumesh\Desktop\manikantagoudamain1991\webapp2000\webapp2000\obj\Release\net6.0\PubTmp\Out\webapp2000.deps.json
+C:\Users\Hanumesh\Desktop\manikantagoudamain1991\webapp2000\webapp2000\obj\Release\net6.0\PubTmp\Out\webapp2000.runtimeconfig.json
+C:\Users\Hanumesh\Desktop\manikantagoudamain1991\webapp2000\webapp2000\obj\Release\net6.0\PubTmp\Out\webapp2000.pdb
